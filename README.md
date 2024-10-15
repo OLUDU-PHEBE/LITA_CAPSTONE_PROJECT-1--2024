@@ -36,7 +36,9 @@ Conduct exploratory analysis to understand the distribution, relationships and o
 - **Total sales by region**: to acertain the overall sales made by the region over the period
 - **Region by product and quantity**: to determine the relationship between the product sold and the quantity sold with a slicer to help with the visualiation process
 - **Region by quantity and sales**: to ascertain the region that made the largest to lowest sales.
-- **Order id by customer id** : to analyse our best customers and least customers 
+- **Order id by customer id** : to analyse our best customers and least customers
+### Recommendations: 
+Provide actionable insights and recommendations based on the analysis to enhance sales performance and profitability.
 
 
 
