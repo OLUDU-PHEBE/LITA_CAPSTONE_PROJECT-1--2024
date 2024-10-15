@@ -26,8 +26,17 @@ Provide a timeline for each phase of the project, including data collection, cle
 ### DELIVERABLES:  
 The final deliverable will be a comprehensive retail sales analysis report including Visualizations, Insights, and actionable Recommendations for key stakeholders.
 ## MICROSOFT EXCEL
-**DATA CLEANING**
-```
+
+### Exploratory Data Analysis (EDA): 
+Conduct exploratory analysis to understand the distribution, relationships and outliers in the data, by creating reports on: 
+- **Total sales by product 2023** : to determine the overall sales for the year 2023
+- **Total sales by products 2024**: to analyse the total sales made for the year 2024
+- **Total sales by region and products** : to understand the relationship of the sales made on the products by the region and to ascertain fast moving products in each region. 
+- **Total sales by region and quantity**: to analyse sales trend by region and quantity for the both years
+- **Total sales by region**: to acertain the overall sales made by the region over the period
+- **Region by product and quantity**: to determine the relationship between the product sold and the quantity sold with a slicer to help with the visualiation process
+- **Region by quantity and sales**: to ascertain the region that made the largest to lowest sales.
+- **Order id by customer id** : to analyse our best customers and least customers 
 
 
 
