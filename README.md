@@ -25,6 +25,9 @@ Provide a timeline for each phase of the project, including data collection, cle
 
 ### DELIVERABLES:  
 The final deliverable will be a comprehensive retail sales analysis report including Visualizations, Insights, and actionable Recommendations for key stakeholders.
+## MICROSOFT EXCEL
+**DATA CLEANING**
+```
 
 
 
