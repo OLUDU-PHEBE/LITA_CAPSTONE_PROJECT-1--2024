@@ -47,9 +47,8 @@ Conduct exploratory analysis to understand the distribution, relationships and o
 
 #### Total sales by region: to acertain the overall sales made by the region over the period
  ![total sales by region](https://github.com/user-attachments/assets/b53242cc-8f5e-4abc-aa74-d038fa541a53)
-
 #### Total sales by month: to account for each sales made in each months for the both year
- ![TOTAL SALES BY MONTH](https://github.com/user-attachments/assets/79319460-e47d-4030-87e5-b47e890cd566)
+![TOTAL SALES BY MONTH](https://github.com/user-attachments/assets/dd17b270-3284-404b-9cef-c6878e82d4e3)
 
 #### Region by product and quantity: to determine the relationship between the product sold and the quantity sold with a slicer to help with the visualiation process
  ![product by region and quantity](https://github.com/user-attachments/assets/e2081b60-c145-4a31-b2bb-1cc18904f29d)
