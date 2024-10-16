@@ -31,63 +31,55 @@ The final deliverable will be a comprehensive retail sales analysis report inclu
 Conduct exploratory analysis to understand the distribution, relationships and outliers in the data, by creating reports on:
 
 #### Total sales by product 2023 : to determine the overall sales for the year 2023
-  
-  ![sales by product 2023](https://github.com/user-attachments/assets/b4c2bde4-ebc8-40ea-b6c0-0b17b5559bea)
+  ![sales by product 2023](https://github.com/user-attachments/assets/d27db2aa-1286-4859-8cd3-ae1bdd43133c)
 
 #### Total sales by products 2024: to analyse the total sales made for the year 2024
-  
-  ![total sales by 2024](https://github.com/user-attachments/assets/e62c788a-59b9-4e30-991d-cee60d8a2a2b)
+  ![total sales by 2024](https://github.com/user-attachments/assets/6a8876e0-95f6-4ebc-b074-e537ca8021d0)
 
 #### Total sales by product : to ascertain the overall total sales made on the products
-  
-  ![TOTAL SALES BY PRODUCT](https://github.com/user-attachments/assets/95e6e6ce-3c12-410f-b640-6c5a8d55ce05)
+  ![TOTAL SALES BY PRODUCT](https://github.com/user-attachments/assets/d77ba1f0-1378-4cc0-80e4-3d1da4cca515)
 
 #### Total sales by product and order date : to understand the relationship of the sales made on the products by the region and to ascertain fast moving products in each region.
-  
-   ![sales by product with order date](https://github.com/user-attachments/assets/47454126-499d-4322-a182-0b8efa1cbb45)
+  ![order id by region, sales](https://github.com/user-attachments/assets/5c44ddec-1923-45e8-b0ac-daaa5c2bb52b)
 
 #### Total sales by region and quantity: to analyse sales trend by region and quantity for the both years
-  
-  ![region and quantity](https://github.com/user-attachments/assets/0358742a-d6ca-4d60-bde7-93fab87ba83c)
+  ![region and quantity](https://github.com/user-attachments/assets/0ff80972-a32e-4a7b-abe4-603d8ef4b815)
 
-#### Total sales by region**: to acertain the overall sales made by the region over the period
- 
-  ![total sales by region](https://github.com/user-attachments/assets/cdb3ff34-b1bb-45ac-810a-70a61e63cbcf)
+#### Total sales by region: to acertain the overall sales made by the region over the period
+ ![total sales by region](https://github.com/user-attachments/assets/b53242cc-8f5e-4abc-aa74-d038fa541a53)
 
 #### Total sales by month: to account for each sales made in each months for the both year
- 
-  ![TOTAL SALES BY MONTH](https://github.com/user-attachments/assets/3f830e00-f817-44dd-9635-9e913765c5f2)
+ ![TOTAL SALES BY MONTH](https://github.com/user-attachments/assets/79319460-e47d-4030-87e5-b47e890cd566)
 
 #### Region by product and quantity: to determine the relationship between the product sold and the quantity sold with a slicer to help with the visualiation process
- 
-  ![region and quantity](https://github.com/user-attachments/assets/389ee035-5d12-4726-ac94-6f02bb19ebe3)
+ ![product by region and quantity](https://github.com/user-attachments/assets/e2081b60-c145-4a31-b2bb-1cc18904f29d)
 
 #### Region by quantity and sales: to ascertain the region that made the largest to lowest sales.
-  
-  ![total sales by region](https://github.com/user-attachments/assets/2119b06c-ee45-4c95-9e06-f931e9b0371a)
+  ![region and quantity](https://github.com/user-attachments/assets/b1af1f12-97da-42d6-b8d9-9e96ffb2c187)
 
 ### Customer Segmentation: Identify customer segments based on purchasing behavior and demographics
 
 #### Order id by customer id : to analyse our best customers and least customers
   
-  ![order id by region, sales](https://github.com/user-attachments/assets/3c6c34dc-7029-445e-a9f6-c8c5aa989391)
   
 #### Region by customer id: to analyze count of customers in each region
-
-  ![REGION BY CUSTOMER ID COUNT](https://github.com/user-attachments/assets/ddc473a3-43be-4e05-948b-2b686fe63e71)
+![REGION BY CUSTOMER ID COUNT](https://github.com/user-attachments/assets/1c3b5955-73d4-455d-89c8-7a6cca5b192d)
 
 #### customer id by product and region: to ascertain each customer with the products bought from each region
+![CUSTOMER ID BY PRODUCT AND REGION](https://github.com/user-attachments/assets/83c4c01b-8d12-4f7b-93cb-4ca5a075a11b)
 
-  ![Screenshot (35)](https://github.com/user-attachments/assets/59cc0e91-ad68-468f-bb73-1647fc03714c)
 
 #### customer id by quantity and sales to pin each customer sales for easy compensation and commendations
-![Screenshot (36)](https://github.com/user-attachments/assets/f0ebaa68-e56c-417b-960b-e38a3e8fcd36)
-
+![CUSTOMER ID BY SALES AND QUANTITY](https://github.com/user-attachments/assets/c435105f-725f-4d0f-8841-67568d8bd5bf)
 #### customer id by months to determine the months in which we had customers patronise our products
+![customers by month](https://github.com/user-attachments/assets/5007fe8d-d01e-4426-8cab-dc882ecca04d)
 
-![Screenshot (37)](https://github.com/user-attachments/assets/dea75c33-5e2f-468b-9b36-4c1cfb15bdfd)
 
 ### DATA VISUALZATION
+![VISUAL SALES BY MONTH](https://github.com/user-attachments/assets/1e166f79-5e05-4ed5-8496-256c52316304)
+
+
+
 ### Recommendations: 
 Provide actionable insights and recommendations based on the analysis to enhance sales performance and profitabilitysuch as:
 
