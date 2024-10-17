@@ -1,4 +1,4 @@
-# LITA_CAPSTONE_PROJECT-1-2024
+ # LITA_CAPSTONE_PROJECT-1-2024
 ## PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE 
 ### PROJECT OVERVIEW
 This project aims at analyzing the sales performance of a retail store by exploring the sales data to uncover key insights such as top-selling products, regional 
@@ -27,6 +27,12 @@ Provide a timeline for each phase of the project, including data collection, cle
 The final deliverable will be a comprehensive retail sales analysis report including Visualizations, Insights, and actionable Recommendations for key stakeholders.
 ## MICROSOFT EXCEL
 
+### Sales Trend Analysis: 
+Analyze sales trends over time, by product category, and geographical regions
+**AVERAGE SALES PER PRODUCT** 
+``` =AVERAGEIF(C2:C50001,"GLOVES",G2:G50001)
+**TOTAL REVENUE BY REGION**
+``` =SUMIF(D2:D50001,"NORTH",G2:G50001)
 ### Exploratory Data Analysis (EDA): 
 Conduct exploratory analysis to understand the distribution, relationships and outliers in the data, by creating reports on:
 
