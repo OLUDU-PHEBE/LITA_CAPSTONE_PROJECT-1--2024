@@ -43,6 +43,7 @@ Analyze sales trends over time, by product category, and geographical regions
 Conduct exploratory analysis to understand the distribution, relationships and outliers in the data, by creating reports on:
 
 #### Total sales by product 2023 : to determine the overall sales for the year 2023
+
   ![sales by product 2023](https://github.com/user-attachments/assets/d27db2aa-1286-4859-8cd3-ae1bdd43133c)
 
 #### Total sales by products 2024: to analyse the total sales made for the year 2024
