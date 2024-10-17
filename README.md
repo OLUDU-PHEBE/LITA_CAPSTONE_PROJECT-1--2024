@@ -29,10 +29,13 @@ The final deliverable will be a comprehensive retail sales analysis report inclu
 
 ### Sales Trend Analysis: 
 Analyze sales trends over time, by product category, and geographical regions
-**AVERAGE SALES PER PRODUCT** 
+- **AVERAGE SALES PER PRODUCT**
+  
 ``` =AVERAGEIF(C2:C50001,"GLOVES",G2:G50001)
-**TOTAL REVENUE BY REGION**
+
+- **AVERAGE SALES PER PRODUCT**
 ``` =SUMIF(D2:D50001,"NORTH",G2:G50001)
+
 ### Exploratory Data Analysis (EDA): 
 Conduct exploratory analysis to understand the distribution, relationships and outliers in the data, by creating reports on:
 
