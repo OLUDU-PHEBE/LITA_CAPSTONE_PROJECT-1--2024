@@ -52,4 +52,4 @@ Analyze sales trends over time, by product category, and geographical regions
  ```MICROSOFT EXCEL
 =SUMIF(D2:D50001,"NORTH",H2:H50001)
 
- **RESULT** :This gives the total sales made on JACKET.
+**RESULT** :This gives the total sales made on JACKET.
