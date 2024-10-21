@@ -58,14 +58,11 @@ Analyze sales trends over time, by product category, and geographical regions
   ## SQL (STRUCTURED QUERY LANGUAGE) : DATA MANIPULATION
   **CLEANING OF IMPORTED DATA**
   - **Changing column headings**
+    
   ```SQL
 SELECT PRODUCT AS
 PRODUCT_NAME
 FROM DBO_SALESDATA$
 
- **Changing column headings**
-
-```SQL
-SELECT PRODUCT AS
-PRODUCT_NAME
-FROM DBO_SALESDATA$
+ 
+ 
