@@ -45,7 +45,7 @@ Analyze sales trends over time, by product category, and geographical regions
   ```MICROSOFT EXCEL
  =SUMIF(C2:C50003,"JACKET",H2:H50003)
 
-**RESULT:** This gives the total sales made on JACKET.
+**RESULT:** This represents the total sales generated from JACKET.
 
 - **TOTAL REVENUE BY REGION**: Understanding the geographical distribution of a company's revenue is crucial for assessing the performance of different regions in contributing to the overall revenue. By analyzing total revenue by region, it's possible to pinpoint which areas are the primary revenue generators and which may be lagging. Such insights enable a company to make strategic decisions about where to focus growth efforts, how to allocate resources efficiently, and ways to refine market strategies. Additionally, this analysis can shed light on regional trends, customer preferences, competitive dynamics, and potential market opportunities, aiding in the customization of marketing, sales, and distribution strategies to meet the needs of customers across various regions and contribute to the company's overall business expansion. In essence, analyzing total revenue by region equips companies with a detailed understanding of their geographic revenue streams, facilitating informed, data-driven decisions that enhance market presence and promote sustained growth.
 
@@ -57,26 +57,15 @@ Analyze sales trends over time, by product category, and geographical regions
   
   ## SQL (STRUCTURED QUERY LANGUAGE) : DATA MANIPULATION
   **CLEANING OF IMPORTED DATA**
-  **Changing column headings**
+  - **Changing column headings**
   ```SQL
 SELECT PRODUCT AS
 PRODUCT_NAME
 FROM DBO_SALESDATA$
 
- **CALCULATING FOR TOTAL SALES FOR EACH PRODUCT CATEGORIES**
+ **Changing column headings**
 
-``` SQL
-SELECT PRODUCT
-SUM(SALES) AS TOTAL_SALES
+```SQL
+SELECT PRODUCT AS
+PRODUCT_NAME
 FROM DBO_SALESDATA$
-GROUP BY PRODUCT
-
-  ``` SQL
-SELECT PRODUCT
-SUM(SALES) AS TOTAL_SALES
-FROM DBO_SALESDATA$
-GROUP BY PRODUCT
-
-
-
-  
